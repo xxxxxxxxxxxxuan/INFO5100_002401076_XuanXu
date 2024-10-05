@@ -35,7 +35,5 @@ public class Main {
         s.printScores();
         s.printFullTimeScores();
         s.printPartTimeName();
-
-
     }
 }
