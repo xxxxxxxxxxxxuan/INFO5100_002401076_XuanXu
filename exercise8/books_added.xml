@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BookShelf>
+        
+    <Book>
+                
+        <title>Book A</title>
+                
+        <publishedYear>2001</publishedYear>
+                
+        <numberOfPages>300</numberOfPages>
+                
+        <authors>
+                        
+            <author>Author A1</author>
+                        
+            <author>Author A2</author>
+                    
+        </authors>
+            
+    </Book>
+        
+    <Book>
+                
+        <title>Book B</title>
+                
+        <publishedYear>2010</publishedYear>
+                
+        <numberOfPages>250</numberOfPages>
+                
+        <authors>
+                        
+            <author>Author B1</author>
+                    
+        </authors>
+            
+    </Book>
+        
+    <Book>
+                
+        <title>Book C</title>
+                
+        <publishedYear>2018</publishedYear>
+                
+        <numberOfPages>500</numberOfPages>
+                
+        <authors>
+                        
+            <author>Author C1</author>
+                        
+            <author>Author C2</author>
+                    
+        </authors>
+            
+    </Book>
+    
+    <Book>
+        <title>Book D</title>
+        <publishedYear>2024</publishedYear>
+        <numberOfPages>350</numberOfPages>
+        <authors>
+            <author>Author D1</author>
+        </authors>
+    </Book>
+</BookShelf>
